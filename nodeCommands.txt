@@ -1,0 +1,4 @@
+npm init -y
+npm i express -D
+npm i nodemon -D
+npm i -D nodemon jest @types/jest
